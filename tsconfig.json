@@ -28,7 +28,8 @@
 		"**/*.tsx",
 		".next/types/**/*.ts",
 		"jest.config.mts",
-		"jest.config.mjs"
+		"jest.config.mjs",
+		"src/app/print/page.tsx.old"
 	],
 	"exclude": ["node_modules"]
 }
