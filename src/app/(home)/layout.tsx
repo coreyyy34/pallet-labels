@@ -1,11 +1,5 @@
 import Logo from "@/components/logo";
-import type { Metadata } from "next";
 import type { ReactNode } from "react";
-
-export const metadata: Metadata = {
-	title: "Create Pallet Labels",
-	description: "Easily create and print pallet labels",
-};
 
 export default function RootLayout({
 	children,

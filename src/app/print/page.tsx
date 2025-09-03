@@ -1,5 +1,3 @@
-"use client";
-
 import PrintPageContent from "@/components/print-page-content";
 import { Suspense } from "react";
 

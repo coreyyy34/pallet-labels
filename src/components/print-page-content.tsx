@@ -1,3 +1,5 @@
+"use client";
+
 import { deserialisePalletLabel } from "@/utils/serialiser";
 import { useSearchParams } from "next/navigation";
 import { useEffect } from "react";
